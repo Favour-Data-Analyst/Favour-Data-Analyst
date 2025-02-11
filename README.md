@@ -1,5 +1,5 @@
 - 🔭 Hi, I’m Favour-Data-Scientist
-- 🌱 I’m inyterested in data science
+- 🌱 I’m interested in data science
 - 👯 I’m currently learning data analysis
 - 🤔 I’m open to collaboration on data analysis
 - 📫 How to reach me: ...
